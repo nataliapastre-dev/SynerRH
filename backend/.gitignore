@@ -31,6 +31,9 @@ dist
 .claude
 .windsurf
 
+# Local agent tooling
+skills-lock.json
+
 # Editor / OS
 .vscode
 .idea
