@@ -21,18 +21,15 @@ O projeto une minha experiência profissional na área administrativa aos conhec
 
 ## 💡 Como surgiu o projeto
 
-O SynerRH não começou como um sistema completo de gestão de pessoas. 
+O SynerRH não nasceu como um sistema completo de gestão de pessoas. 
 
-A primeira versão nasceu com o nome **People Performance**, inicialmente voltada ao acompanhamento de desempenho dos colaboradores. A ideia surgiu da união de duas partes importantes da minha trajetória: mais de 10 anos de experiência na área administrativa, trabalhando com processos, dados, atendimento e gestão, e minha formação em Análise e Desenvolvimento de Sistemas.
+Sua primeira versão chamava-se **People Performance**, focada inicialmente no acompanhamento de desempenho dos colaboradores. O projeto nasceu da fusão de dois pilares da minha trajetória: mais de uma década de vivência na área administrativa — lidando com processos, dados, atendimento e gestão — com a minha formação em Análise e Desenvolvimento de Sistemas.
 
-Durante minha transição para tecnologia, percebi que poderia utilizar a experiência adquirida no ambiente corporativo para desenvolver uma aplicação que tivesse contexto de negócio e, ao mesmo tempo, me permitisse colocar em prática meus conhecimentos em desenvolvimento de software. Foi assim que nasceu o *People Performance*.
+Ao iniciar minha transição para a tecnologia, vi a oportunidade de transformar essa bagagem corporativa em código, criando uma aplicação com forte contexto de negócio e aplicando na prática meus conhecimentos de desenvolvimento.
 
-Conforme o desenvolvimento avançou, o projeto começou a crescer. O que inicialmente estava concentrado em performance passou a envolver também gestão de colaboradores, avaliações, PDIs, feedbacks, ciclos, cronograma e análise de indicadores. 
+Com o tempo, o escopo expandiu-se muito além da performance, incorporando a gestão de colaboradores, ciclos de avaliação, PDIs, feedbacks, cronogramas e indicadores estratégicos. Diante dessa evolução, o nome *People Performance* deixou de refletir a magnitude da plataforma, dando lugar ao **SynerRH**.
 
-Nesse momento, *People Performance* já não representava tudo o que o projeto havia se tornado. Foi então que nasceu o **SynerRH**.
-
-O nome representa a ideia de **sinergia** entre pessoas, gestão, desenvolvimento e tecnologia. Mais do que um projeto para praticar programação, o SynerRH representa a conexão entre minha trajetória profissional anterior e a carreira que estou construindo em tecnologia: de um lado, minha experiência com processos, organização, dados e visão de negócio; do outro, o desenvolvimento de uma aplicação completa, do frontend ao banco de dados.
-
+O nome traduz a **sinergia** entre pessoas, gestão, desenvolvimento e tecnologia. Mais do que um portfólio de programação, o SynerRH consolida a ponte entre o meu passado corporativo e a minha carreira como desenvolvedora: de um lado, a visão crítica de processos, organização e dados; do outro, a engenharia de uma aplicação full stack robusta, do frontend ao banco de dados.
 ---
 
 ## 🎯 Objetivo
