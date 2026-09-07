@@ -9,6 +9,17 @@ O projeto une minha experiência profissional na área administrativa aos conhec
 
 ---
 
+## 📸 Demonstração da Aplicação
+
+<div align="center">
+  <a href="https://postimg.cc/gallery/gLQS0nX" target="_blank">
+    <img src="https://i.postimg.cc/c4HhL7Pq/synerrh-preview.png" alt="SynerRH Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+  </a>
+  <p><em>Clique na imagem para ver mais telas da galeria de demonstração.</em></p>
+</div>
+
+---
+
 ## 💡 Como surgiu o projeto
 
 O SynerRH não começou como um sistema completo de gestão de pessoas. 
@@ -143,19 +154,19 @@ Nela estão registrados detalhes sobre:
 A documentação registra não apenas o resultado final, mas também o processo e as decisões que fizeram parte da construção do SynerRH.
 
 ---
+
 ## 👩‍💻 Desenvolvedora
 
-**Natália Pastre**
-
+**Natália Pastre**  
 Desenvolvedora em formação em **Análise e Desenvolvimento de Sistemas**, em transição profissional para a área de tecnologia.
 
 Minha trajetória na área administrativa me proporcionou experiência com **processos, dados, organização e visão de negócio**. Atualmente, busco unir essa experiência ao desenvolvimento de software para construir soluções que sejam tecnicamente funcionais e também façam sentido dentro de um contexto real.
 
 O **SynerRH** representa justamente essa união.
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/nataliapastre-dev/
-
+* 🔗 **LinkedIn:** [https://www.linkedin.com/in/nataliapastre-dev/](https://www.linkedin.com/in/nataliapastre-dev/)
+* 💻 **GitHub:** [https://github.com/nataliapastre-dev](https://github.com/nataliapastre-dev)
+* 🌐 **SynerRH:** [https://synerrh-frontend.onrender.com/](https://synerrh-frontend.onrender.com/)
 
 ---
 
@@ -167,3 +178,4 @@ https://www.linkedin.com/in/nataliapastre-dev/
 ---
 
 > ⭐ **SynerRH** — conectando pessoas, gestão, desenvolvimento e tecnologia.
+
