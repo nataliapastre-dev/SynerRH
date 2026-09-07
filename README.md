@@ -143,16 +143,19 @@ Nela estão registrados detalhes sobre:
 A documentação registra não apenas o resultado final, mas também o processo e as decisões que fizeram parte da construção do SynerRH.
 
 ---
-
 ## 👩‍💻 Desenvolvedora
 
-**Natália Pastre**  
-Desenvolvedora em formação em Análise e Desenvolvimento de Sistemas, em transição profissional para a área de tecnologia.
+**Natália Pastre**
 
-Minha trajetória na área administrativa me proporcionou experiência com processos, dados, organização e visão de negócio. Atualmente, busco unir essa experiência ao desenvolvimento de software para construir soluções que sejam tecnicamente funcionais e também façam sentido dentro de um contexto real. O SynerRH representa justamente essa união.
+Desenvolvedora em formação em **Análise e Desenvolvimento de Sistemas**, em transição profissional para a área de tecnologia.
 
-* 💻 **GitHub:** [https://github.com/nataliapastre-dev](https://github.com/nataliapastre-dev)
-* 🌐 **SynerRH:** [https://synerrh-frontend.onrender.com/](https://synerrh-frontend.onrender.com/)
+Minha trajetória na área administrativa me proporcionou experiência com **processos, dados, organização e visão de negócio**. Atualmente, busco unir essa experiência ao desenvolvimento de software para construir soluções que sejam tecnicamente funcionais e também façam sentido dentro de um contexto real.
+
+O **SynerRH** representa justamente essa união.
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/nataliapastre-dev/
+
 
 ---
 
