@@ -4,14 +4,8 @@ O **SynerRH** é uma aplicação Full Stack de **Gestão de Pessoas e Desempenho
 
 O projeto une minha experiência profissional na área administrativa aos conhecimentos adquiridos em **Análise e Desenvolvimento de Sistemas**, aplicando tecnologia a um contexto real de negócio.
 
-🌐 **Projeto online:**  
-https://synerrh-frontend.onrender.com/
-
-💻 **Repositório:**  
-https://github.com/nataliapastre-dev/SynerRH
-
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/nataliapastre-dev/
+🌐 **[Projeto Online](https://synerrh-frontend.onrender.com/)**  
+💻 **[Repositório no GitHub](https://github.com/nataliapastre-dev/SynerRH)**
 
 ---
 
@@ -143,7 +137,7 @@ A documentação registra não apenas o resultado final, mas também **o process
 
 ## 👩‍💻 Desenvolvedora
 
-**Natália Pastre**
+### Natália Pastre
 
 Desenvolvedora em formação em **Análise e Desenvolvimento de Sistemas**, em transição profissional para a área de tecnologia.
 
@@ -151,14 +145,9 @@ Minha trajetória na área administrativa me proporcionou experiência com **pro
 
 O **SynerRH** representa justamente essa união.
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/nataliapastre-dev/
-
-💻 **GitHub:**  
-https://github.com/nataliapastre-dev
-
-🌐 **Projeto online:**  
-https://synerrh-frontend.onrender.com/
+💼 **[LinkedIn](https://www.linkedin.com/in/nataliapastre-dev/)**  
+💻 **[GitHub](https://github.com/nataliapastre-dev)**  
+🌐 **[Acessar SynerRH](https://synerrh-frontend.onrender.com/)**
 
 ---
 
