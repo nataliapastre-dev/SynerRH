@@ -13,7 +13,7 @@ O projeto une minha experiência profissional na área administrativa aos conhec
 
 <div align="center">
   <a href="https://postimg.cc/gallery/gLQS0nX" target="_blank">
-    <img src="https://i.postimg.cc/c4HhL7Pq/synerrh-preview.png" alt="SynerRH Preview" style="max-width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+    <img src="https://i.postimg.cc/c4HhL7Pq/synerrh-preview.png" alt="SynerRH Preview" width="100%" style="border-radius: 8px;" />
   </a>
   <p><em>Clique na imagem para ver mais telas da galeria de demonstração.</em></p>
 </div>
