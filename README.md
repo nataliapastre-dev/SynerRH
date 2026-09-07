@@ -13,14 +13,10 @@ O projeto une minha experiência profissional na área administrativa aos conhec
 
 <div align="center">
   <a href="https://postimg.cc/gallery/gLQS0nX" target="_blank">
-    <img
-      src="https://i.postimg.cc/rppQjTtP/syner-RH-cover.jpg"
-      alt="SynerRH - Gestão e Desenvolvimento de Colaboradores"
-      width="100%"
-    />
+    <img src="https://i.postimg.cc/rppQjTtP/syner-RH-cover.jpg" alt="SynerRH - Gestão e Desenvolvimento de Colaboradores" width="100%" />
   </a>
-
-
+  <p><em>Clique na imagem para ver mais telas da galeria de demonstração.</em></p>
+</div>
 
 ---
 
@@ -99,23 +95,6 @@ O sistema conta com:
 * GitHub
 
 ---
-
-## 🏗️ Arquitetura
-
-O SynerRH possui frontend e backend separados, conectados através de uma API REST.
-
-```text
-React + TypeScript
-        ↓
-     API REST
-        ↓
-Fastify + TypeScript
-        ↓
-   Prisma ORM
-        ↓
-    PostgreSQL
-```
-
 A aplicação utiliza PostgreSQL em produção, com o Prisma responsável pelo acesso e relacionamento dos dados.
 
 ---
@@ -134,8 +113,7 @@ O SynerRH está disponível online e pode ser acessado diretamente pelo navegado
 
 🔗 **[https://synerrh-frontend.onrender.com/](https://synerrh-frontend.onrender.com/)**
 
-O ambiente publicado utiliza o fluxo:
-`React/Vite` → `Fastify` → `Prisma` → `PostgreSQL` (frontend, backend e banco de dados integrados em ambiente de produção).
+O ambiente publicado utiliza o fluxo: `React/Vite` → `Fastify` → `Prisma` → `PostgreSQL` (frontend, backend e banco de dados integrados em ambiente de produção).
 
 *Observação: o projeto utiliza infraestrutura gratuita para demonstração. Após períodos sem utilização, o primeiro carregamento pode levar alguns segundos enquanto o serviço é iniciado.*
 
@@ -159,6 +137,29 @@ A documentação registra não apenas o resultado final, mas também o processo 
 
 ---
 
+
+## 🏗️ Arquitetura
+
+O SynerRH possui frontend e backend separados, conectados através de uma API REST.
+
+
+React + TypeScript
+        ↓
+     API REST
+        ↓
+Fastify + TypeScript
+        ↓
+   Prisma ORM
+        ↓
+    PostgreSQL
+
+    ## 📌 Status do projeto
+
+🟢 **Aplicação funcional e publicada**  
+`Frontend ✅` | `Backend/API ✅` | `PostgreSQL ✅` | `Integração Full Stack ✅` | `Deploy ✅` | `Responsividade ✅` | `Documentação ✅
+
+---
+
 ## 👩‍💻 Desenvolvedora
 
 **Natália Pastre**  
@@ -174,12 +175,4 @@ O **SynerRH** representa justamente essa união.
 
 ---
 
-## 📌 Status do projeto
-
-🟢 **Aplicação funcional e publicada**  
-`Frontend ✅` | `Backend/API ✅` | `PostgreSQL ✅` | `Integração Full Stack ✅` | `Deploy ✅` | `Responsividade ✅` | `Documentação ✅`
-
----
-
 > ⭐ **SynerRH** — conectando pessoas, gestão, desenvolvimento e tecnologia.
-
