@@ -15,8 +15,7 @@ O projeto une minha experiência profissional na área administrativa aos conhec
   <a href="https://postimg.cc/gallery/gLQS0nX" target="_blank">
     <img src="https://i.postimg.cc/rppQjTtP/syner-RH-cover.jpg" alt="SynerRH - Gestão e Desenvolvimento de Colaboradores" width="100%" />
   </a>
-  <p><em>Clique na imagem para ver mais telas da galeria de demonstração.</em></p>
-</div>
+ 
 
 ---
 
