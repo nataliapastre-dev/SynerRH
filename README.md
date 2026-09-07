@@ -20,8 +20,7 @@ O projeto une minha experiência profissional na área administrativa aos conhec
     />
   </a>
 
-  <p><em>Clique na imagem para visualizar mais telas do SynerRH.</em></p>
-</div>
+
 
 ---
 
