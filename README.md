@@ -30,6 +30,7 @@ Ao iniciar minha transição para a tecnologia, vi a oportunidade de transformar
 Com o tempo, o escopo expandiu-se muito além da performance, incorporando a gestão de colaboradores, ciclos de avaliação, PDIs, feedbacks, cronogramas e indicadores estratégicos. Diante dessa evolução, o nome *People Performance* deixou de refletir a magnitude da plataforma, dando lugar ao **SynerRH**.
 
 O nome traduz a **sinergia** entre pessoas, gestão, desenvolvimento e tecnologia. Mais do que um portfólio de programação, o SynerRH consolida a ponte entre o meu passado corporativo e a minha carreira como desenvolvedora: de um lado, a visão crítica de processos, organização e dados; do outro, a engenharia de uma aplicação full stack robusta, do frontend ao banco de dados.
+
 ---
 
 ## 🎯 Objetivo
@@ -48,6 +49,8 @@ Durante sua construção, o projeto permitiu aplicar na prática conceitos como:
 * Configuração de ambiente
 * Migração de banco de dados
 * Deploy de uma aplicação Full Stack
+
+---
 
 ---
 
@@ -91,13 +94,17 @@ O sistema conta com:
 * GitHub
 
 ---
-A aplicação utiliza PostgreSQL em produção, com o Prisma responsável pelo acesso e relacionamento dos dados.
+
+A aplicação utiliza **PostgreSQL** em produção, com o **Prisma ORM** responsável pelo acesso, modelagem e relacionamento dos dados.
+
+---
+
 
 ---
 
 ## 📊 Ambiente de demonstração
 
-O sistema possui uma base de dados demonstrativa com **24 colaboradores**, além de avaliações, PDIs, feedbacks, ciclos e demais informações necessárias para explorar as funcionalidades da aplicação.
+O sistema conta com uma base de dados demonstrativa estruturada com **24 colaboradores**, contemplando também avaliações de desempenho, PDIs, feedbacks, ciclos e todas as informações necessárias para explorar as funcionalidades da plataforma.
 
 > *Nota: Os dados apresentados possuem finalidade exclusivamente demonstrativa.*
 
@@ -105,40 +112,41 @@ O sistema possui uma base de dados demonstrativa com **24 colaboradores**, além
 
 ## 🌐 Aplicação publicada
 
-O SynerRH está disponível online e pode ser acessado diretamente pelo navegador:
+O SynerRH está online e pronto para ser acessado diretamente pelo navegador:
 
 🔗 **[https://synerrh-frontend.onrender.com/](https://synerrh-frontend.onrender.com/)**
 
-O ambiente publicado utiliza o fluxo: `React/Vite` → `Fastify` → `Prisma` → `PostgreSQL` (frontend, backend e banco de dados integrados em ambiente de produção).
+O ambiente em produção integra o seguinte fluxo tecnológico: `React/Vite` → `Fastify` → `Prisma` → `PostgreSQL` (frontend, backend e banco de dados totalmente conectados).
 
-*Observação: o projeto utiliza infraestrutura gratuita para demonstração. Após períodos sem utilização, o primeiro carregamento pode levar alguns segundos enquanto o serviço é iniciado.*
+*Observação: por utilizar infraestrutura gratuita de hospedagem, o primeiro carregamento após períodos de inatividade pode levar alguns segundos enquanto o serviço é reiniciado.*
 
 ---
 
 ## 📚 Documentação
 
-O processo de desenvolvimento do SynerRH também foi documentado. Enquanto este README apresenta uma visão geral da aplicação, a documentação completa do projeto está disponível na pasta `docs/` deste repositório.
+Todo o processo de concepção e desenvolvimento do SynerRH foi rigorosamente documentado. Enquanto este README oferece uma visão macro e executiva da aplicação, a documentação técnica e detalhada do projeto encontra-se disponível na pasta `docs/` do repositório.
 
-Nela estão registrados detalhes sobre:
-* Evolução do People Performance para o SynerRH
-* Arquitetura e estrutura do sistema
-* Funcionalidades e regras de negócio
-* Frontend e backend
-* Banco de dados e API
-* Decisões técnicas
-* Problemas encontrados e soluções implementadas
-* Evolução do projeto e deploy
+Nela, estão registrados a fundo tópicos essenciais como:
+* A transição e evolução do *People Performance* para o **SynerRH**
+* Arquitetura e estrutura organizacional do sistema
+* Regras de negócio e detalhamento das funcionalidades
+* Arquitetura de frontend e backend
+* Modelagem de banco de dados e contrato de API
+* Decisões técnicas e arquiteturais tomadas
+* Desafios enfrentados, problemas encontrados e soluções implementadas
+* Histórico de evolução e o processo de deploy
 
-A documentação registra não apenas o resultado final, mas também o processo e as decisões que fizeram parte da construção do SynerRH.
+Essa documentação serve para registrar não apenas o produto final entregue, mas todo o raciocínio, os aprendizados e as decisões estratégicas que moldaram a construção do SynerRH.
 
 ---
 
+---
 
 ## 🏗️ Arquitetura
 
-O SynerRH possui frontend e backend separados, conectados através de uma API REST.
+O SynerRH adota uma arquitetura desacoplada, com frontend e backend independentes que se comunicam por meio de uma API REST robusta.
 
-
+```text
 React + TypeScript
         ↓
      API REST
@@ -148,27 +156,3 @@ Fastify + TypeScript
    Prisma ORM
         ↓
     PostgreSQL
-
-    ## 📌 Status do projeto
-
-🟢 **Aplicação funcional e publicada**  
-`Frontend ✅` | `Backend/API ✅` | `PostgreSQL ✅` | `Integração Full Stack ✅` | `Deploy ✅` | `Responsividade ✅` | `Documentação ✅
-
----
-
-## 👩‍💻 Desenvolvedora
-
-**Natália Pastre**  
-Desenvolvedora em formação em **Análise e Desenvolvimento de Sistemas**, em transição profissional para a área de tecnologia.
-
-Minha trajetória na área administrativa me proporcionou experiência com **processos, dados, organização e visão de negócio**. Atualmente, busco unir essa experiência ao desenvolvimento de software para construir soluções que sejam tecnicamente funcionais e também façam sentido dentro de um contexto real.
-
-O **SynerRH** representa justamente essa união.
-
-* 🔗 **LinkedIn:** [https://www.linkedin.com/in/nataliapastre-dev/](https://www.linkedin.com/in/nataliapastre-dev/)
-* 💻 **GitHub:** [https://github.com/nataliapastre-dev](https://github.com/nataliapastre-dev)
-* 🌐 **SynerRH:** [https://synerrh-frontend.onrender.com/](https://synerrh-frontend.onrender.com/)
-
----
-
-> ⭐ **SynerRH** — conectando pessoas, gestão, desenvolvimento e tecnologia.
